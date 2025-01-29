@@ -207,26 +207,26 @@
 
 }
 
-.tooltip-font{
+.tooltip-font {
   font-weight: bold;
   font-family: 'Poppins', sans-serif;
   padding: 3px;
 }
 
-.logo_spin{
+.logo_spin {
   width: 90px;
   height: 90px;
 }
 
-@media screen and (min-width:861px) and (max-width:1229px){
-  
+@media screen and (min-width:861px) and (max-width:1229px) {
 
-  .logosofstacks{
+
+  .logosofstacks {
     width: 80%;
   }
 
 
-  .logo_spin{
+  .logo_spin {
     width: 80px;
     height: 80px;
   }
@@ -234,16 +234,17 @@
 
 }
 
-@media screen and (min-width:600px) and (max-width:861px){
+@media screen and (min-width:600px) and (max-width:861px) {
 
-  .logosofstacks{
+  .logosofstacks {
     width: 80%;
     padding-left: 0;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(3, 1fr);
     /* border: 1px solid red; */
     padding-left: 135px;
   }
-  .logo_spin{
+
+  .logo_spin {
     width: 70px;
     height: 70px;
   }
@@ -251,31 +252,35 @@
 }
 
 
-@media screen and (max-width:600px){
-  
+@media screen and (max-width:600px) {
 
-  .logosofstacks{
+
+  .logosofstacks {
     width: 80%;
     padding-left: 66px;
-    grid-template-columns: repeat(3,1fr);
-  }
-  .coin{
-    font-size:4rem;
+    grid-template-columns: repeat(3, 1fr);
   }
 
-  .css-logo-width{
+  .coin {
+    font-size: 4rem;
+  }
+
+  .css-logo-width {
     width: 2.8rem;
   }
-  .chakra-logo-width{
+
+  .chakra-logo-width {
     width: 4rem;
     margin-top: -17px;
   }
-.typescript{
-  width: 3rem;
-  border-radius: 1rem;
-}
-.logo_spin{
-  width: 40px;
-  height: 40px;
-}
+
+  .typescript {
+    width: 3rem;
+    border-radius: 1rem;
+  }
+
+  .logo_spin {
+    width: 40px;
+    height: 40px;
+  }
 }

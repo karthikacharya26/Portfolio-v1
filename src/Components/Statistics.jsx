@@ -8,7 +8,7 @@ const Statistics = () => {
     <div className="stats" id="statistics">
       <div className='heading-div'>
         <button className='heading-textbtn'>
-          <h1 className='mainheading'>Git <span style={{ color: "#0e4166" }}>Stat's</span></h1>
+          <h1 className='mainheading'>GitHub <span style={{ color: "#0e4166" }}>Statistics</span></h1>
         </button>
       </div>
       <div className="github-calender-div">

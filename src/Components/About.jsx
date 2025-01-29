@@ -29,12 +29,7 @@ const About = ({ ref, func }) => {
         </div>
         <div>
           <p id="user-detail-intro">
-            Hi there! I'm Karthik, and I'm passionate about creating things that
-            live on the internet. As a dedicated developer, I have strong
-            administrative skills, a keen eye for detail, and the ability to
-            write efficient code. I specialize in designing pixel-perfect
-            visuals and implementing responsive layouts to deliver seamless and
-            visually appealing websites.
+         An innovative full-stack web developer proficient in JavaScript, MongoDB, Express.js, Node.js, and React. Recognized for adaptability and problem-solving in building scalable applications. Skilled in Generative AI, software architecture, and performance optimization, with a passion for mastering new technologies to drive project success.
           </p>
           <div className="resume-button" id="resume-button-2">
             <button className="download-button" onClick={handleDownload}>
